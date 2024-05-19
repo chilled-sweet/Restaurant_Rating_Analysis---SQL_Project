@@ -1,5 +1,3 @@
-Restaurant_Rating_Analysis---SQL_Project
-
 Title :- Restaurant Ratings Analysis Created by : Kartik Mone Date : 15-11-2023 Tools Used :- MySQL
 
 Introduction :-
