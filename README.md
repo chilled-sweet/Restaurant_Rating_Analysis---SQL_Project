@@ -1,4 +1,4 @@
-Title :- Restaurant Ratings Analysis Created by : Prathit Tijare Date : 15-11-2023 Tools Used :- MySQL
+Title :- Restaurant Ratings Analysis Created by : Kartik Mone Date : 15-11-2023 Tools Used :- MySQL
 
 Introduction :-
 
